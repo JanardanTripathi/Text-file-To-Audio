@@ -18,13 +18,13 @@ This project is a simple Python application that converts the text content of PD
 ## Installation
 
 Install the required libraries using pip:
-pip install pypdf pyttsx3
+```pip install pypdf pyttsx3```
 
 ## Usage
 
 1. Run the script:
     ```
-    python [main.py]
+    python main.py
     ```
 2. Select a PDF file when prompted.
 3. The application will read the text from the PDF aloud.
